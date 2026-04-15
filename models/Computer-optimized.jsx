@@ -7,7 +7,7 @@ import React from 'react'
 import { useGLTF } from '@react-three/drei'
 
 export function Model(props) {
-  const { nodes, materials } = useGLTF('/computer-optimized.glb')
+  const { nodes, materials } = useGLTF('import.meta.env.BASE_URL + "models/computer-optimized.glb"')
   return (
     <group {...props} dispose={null}>
       <group position={[-4.005, 67.549, 58.539]}>
@@ -18,4 +18,4 @@ export function Model(props) {
   )
 }
 
-useGLTF.preload('/computer-optimized.glb')
+useGLTF.preload('import.meta.env.BASE_URL + "models/computer-optimized.glb"')

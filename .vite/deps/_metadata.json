@@ -1,0 +1,114 @@
+{
+  "hash": "3bb3c5f4",
+  "configHash": "08e40a00",
+  "lockfileHash": "3f42f841",
+  "browserHash": "0cc97bfa",
+  "optimized": {
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "fa9ccfb3",
+      "needsInterop": false
+    },
+    "@gsap/react": {
+      "src": "../../node_modules/@gsap/react/src/index.js",
+      "file": "@gsap_react.js",
+      "fileHash": "e0ae3fb6",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "19f3ce2d",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "77ece2cb",
+      "needsInterop": false
+    },
+    "@react-three/postprocessing": {
+      "src": "../../node_modules/@react-three/postprocessing/dist/index.js",
+      "file": "@react-three_postprocessing.js",
+      "fileHash": "8db91ac1",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "e527bbd1",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../node_modules/gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "34737998",
+      "needsInterop": false
+    },
+    "postprocessing": {
+      "src": "../../node_modules/postprocessing/build/index.js",
+      "file": "postprocessing.js",
+      "fileHash": "86cc63e8",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a929c7b3",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b850e0dd",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "b3462044",
+      "needsInterop": true
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "a3f991c0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BoAXSpZd": {
+      "file": "chunk-BoAXSpZd.js",
+      "isDynamicEntry": false
+    },
+    "client-8VIY90bK": {
+      "file": "client-8VIY90bK.js",
+      "isDynamicEntry": false
+    },
+    "gsap-B_BDlnx1": {
+      "file": "gsap-B_BDlnx1.js",
+      "isDynamicEntry": false
+    },
+    "hls-B9xDIMhE": {
+      "file": "hls-B9xDIMhE.js",
+      "isDynamicEntry": false
+    },
+    "react-three-fiber.esm-BFAAW-M-": {
+      "file": "react-three-fiber.esm-BFAAW-M-.js",
+      "isDynamicEntry": false
+    },
+    "scheduler-Dos1ZBxL": {
+      "file": "scheduler-Dos1ZBxL.js",
+      "isDynamicEntry": false
+    },
+    "three.module-U45zLmMV": {
+      "file": "three.module-U45zLmMV.js",
+      "isDynamicEntry": false
+    },
+    "vision_bundle-bsoH7_t-": {
+      "file": "vision_bundle-bsoH7_t-.js",
+      "isDynamicEntry": true
+    }
+  }
+}
